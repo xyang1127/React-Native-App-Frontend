@@ -1,5 +1,6 @@
 # React-Native-App-Frontend
-This is the frontend part of a simple React Native application supporting people to meet and do activities together
+This is the frontend part of a simple React Native application supporting people to meet and do activities together.
+The front end is built upon React Native framework.
 
 To run the code:
 - set up the server first. To do that, please refer to the [backend repository][1]
