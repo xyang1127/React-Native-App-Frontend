@@ -1,6 +1,6 @@
 import React from "react";
 import { View, StyleSheet, Button, Text, ScrollView } from "react-native";
-import Constants from "expo-constants";
+
 import { url } from "../constant";
 
 // this component receives a object called activity, the field is defined in the file "../activities"
