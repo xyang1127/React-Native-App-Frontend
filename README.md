@@ -11,7 +11,7 @@ The frontend is built upon React Native framework.
 
 ## Design and Functionality
 - React Navigation is used to navigate through pages
-- User needs to sign up and log in to perform actions. You can log in directly by using username: `admin` and password: `admin`.
+- User needs to sign up and log in to perform actions. You can log in directly by using username: `admin` and password: `admin` as a user named `xy`.
 - User can look through all the activities created by themselves and by others on the main page. To view the detail of an activity, the user can click the corresponding activiy
 - User can initiate activities by clicking the add button on the main page
 - User can search activities according to time, location and type by clicking the search button on the main page
