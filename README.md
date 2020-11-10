@@ -19,23 +19,23 @@ The frontend is built upon React Native framework.
 
 ## Demos
 
-<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/login%20page.PNG" height="500">
-
 login page
 
+<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/login%20page.PNG" height="500">
 
-<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/main%20page.PNG" height="500">
 
 main page
 
+<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/main%20page.PNG" height="500">
 
-<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/search%20page.PNG" height="500">
 
 search page
 
+<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/search%20page.PNG" height="500">
 
-<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/detail%20page.PNG" height="500">
 
 detail page
+
+<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/detail%20page.PNG" height="500">
 
 [1]:https://github.com/xyang1127/React-Native-App-Backend
