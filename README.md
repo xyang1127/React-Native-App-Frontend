@@ -17,4 +17,25 @@ The frontend is built upon React Native framework.
 - User can search activities according to time, location and type by clicking the search button on the main page
 - User can register and unregister an activity by click the Register/Unregister button on the detail page
 
+## Demos
+
+<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/login%20page.PNG" height="500">
+
+login page
+
+
+<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/main%20page.PNG" height="500">
+
+main page
+
+
+<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/search%20page.PNG" height="500">
+
+search page
+
+
+<img src="https://github.com/xyang1127/React-Native-App-Frontend/blob/master/detail%20page.PNG" height="500">
+
+detail page
+
 [1]:https://github.com/xyang1127/React-Native-App-Backend
